@@ -1,7 +1,7 @@
-![Status](https://img.shields.io/badge/status-unsolicited--diagnostics-purple)
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
-![Protocol](https://img.shields.io/badge/protocol-LSP%203.17-blue)
-![Random](https://img.shields.io/badge/random--diagnostics-5%25-orange)
+![Status](https://img.shields.io/static/v1?label=status&message=unsolicited-diagnostics&color=purple)
+![Version](https://img.shields.io/static/v1?label=version&message=0.1.0&color=blue)
+![Protocol](https://img.shields.io/static/v1?label=protocol&message=LSP 3.17&color=blue)
+![Random](https://img.shields.io/static/v1?label=random-diagnostics&message=5%&color=orange)
 
 # Rizzy LSP
 
